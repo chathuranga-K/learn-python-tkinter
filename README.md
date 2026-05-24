@@ -37,7 +37,7 @@ Learn Python Tkinter/
     — 06_radiobuttons.py
     
 GUI Programs/
-    — Count Calculator.py
+    — CLick_Counter.py
     
 Images/
     Images used inside the repository
