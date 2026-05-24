@@ -45,6 +45,5 @@ popupText = Label(
     font=('Arial', 16),
     foreground='red', # font color (foreground color/fg color)
     )
-popupText.pack() # add button to the window
 
 window.mainloop() # place window on computer screen
