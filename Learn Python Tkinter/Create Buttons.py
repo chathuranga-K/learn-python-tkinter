@@ -14,7 +14,7 @@ window.geometry("240x190")
 window.title("Like Count")
 
 # Image - like button
-likeButton = PhotoImage(file="Images/love-circled.png",format='png')
+likeButton = PhotoImage(file="Images//love-circled.png")
 
 # Button - click me
 button = Button(window,
