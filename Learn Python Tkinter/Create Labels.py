@@ -4,7 +4,7 @@ window = Tk()
 window.title("Sample Label")
 
 # convert png file into a PhotoImage format
-photo = PhotoImage(file="Images/laptop-coding.png")
+photo = PhotoImage(file="Images//laptop-coding.png")
 
 # Label
 label = Label(window,
