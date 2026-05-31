@@ -6,9 +6,9 @@ def submit():
 window = Tk()
 
 # high temperature icon
-high_temperature_icon = PhotoImage(file = "temperature-high.png")
+high_temperature_icon = PhotoImage(file = "D:\\Personal Projects\\GitHub Projects\\learn-python-tkinter\\Images\\temperature-low.png")
 high_temp = Label(window,
-                 image=high_temperature_icon)
+                  image=high_temperature_icon)
 high_temp.pack()
 
 # Scale
@@ -35,11 +35,10 @@ scale.set(55)
 scale.pack()
 
 # low temperature icon
-low_temperature_icon = PhotoImage(file = "temperature-low.png")
+low_temperature_icon = PhotoImage(file = "D:\\Personal Projects\\GitHub Projects\\learn-python-tkinter\\Images\\temperature-high.png")
 low_temp = Label(window,
                  image=low_temperature_icon)
 low_temp.pack()
-
 
 # Submit Button
 submit_button = Button(
