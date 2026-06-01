@@ -19,9 +19,9 @@ def order():
         print("You ordered Hotdog!")
     else:print('Opps somthing went wrong! try again')
 # convert PNG to PhotoImage format
-pizzaImage = PhotoImage(file ="../Images/pizza.png")
-hamburgerImage = PhotoImage(file ="../Images/hamburger.png")
-hotdogImage = PhotoImage(file ="../Images/hot-dog.png")
+pizzaImage = PhotoImage(file ="D:\\GitHub Projects\\learn-python-tkinter\\Images\\pizza.png")
+hamburgerImage = PhotoImage(file ="D:\\GitHub Projects\\learn-python-tkinter\\Images\\hamburger.png")
+hotdogImage = PhotoImage(file ="D:\\GitHub Projects\\learn-python-tkinter\\Images\\hot-dog.png")
 
 # create a list for images
 foodImages = [pizzaImage, hamburgerImage, hotdogImage]
