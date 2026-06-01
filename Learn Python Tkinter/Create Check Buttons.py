@@ -11,7 +11,7 @@ window = Tk()
 window.title("User Agreement") # window title
 switch = BooleanVar() # initialize String variable (StringVar/ IntVar/ BooleanVar)
 # convert PNG to a PhotoImage
-agree_icon =  PhotoImage(file ='../Images/agree-icon.png')
+agree_icon =  PhotoImage(file ='D:\\GitHub Projects\\learn-python-tkinter\\Images\\agree-icon.png')
 
 # Check Button - tick/untick
 check_button = Checkbutton(
