@@ -13,8 +13,8 @@ Current progress:
 - ✅ Entry widgets
 - ✅ Checkboxes
 - ✅ Radio buttons
-- ⏳ Scale widgets
-- ⏳ List boxes
+- ✅ Scale widgets
+- ✅ List boxes
 - ⏳ Message boxes
 - ⏳ File dialogs
 - ⏳ Menus
